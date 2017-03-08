@@ -8,3 +8,6 @@ More info about the game: https://en.wikipedia.org/wiki/Hex_(board_game).
 
 App screenshots:
 
+![screenshot1](https://cloud.githubusercontent.com/assets/26262275/23684641/5eb32e60-03a0-11e7-8808-1df71da98c6b.PNG)
+
+![screenshot2](https://cloud.githubusercontent.com/assets/26262275/23684642/5eb630ba-03a0-11e7-8d4f-5d9b9a85e991.PNG)
