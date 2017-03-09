@@ -26,6 +26,7 @@ This is my first project so contributions are very welcome!
 * [Use issue tracker for feedback and bug reports](https://github.com/adrzystek/Hex-Fusekipedia/issues)
 * [Send pull requests](https://github.com/adrzystek/Hex-Fusekipedia)
 * [Star it on the Github page :)](https://github.com/adrzystek/Hex-Fusekipedia)
+* [Contact me](mailto:andrzej.drzystek@gmail.com)
 
 
 ## Additional information
