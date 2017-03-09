@@ -22,7 +22,7 @@ pass
 
 ## Contributing
 
-This is my first project so contributions are very welcome!
+This is my first project so contributions are even more than welcome!
 * [Use issue tracker for feedback and bug reports](https://github.com/adrzystek/Hex-Fusekipedia/issues)
 * [Send pull requests](https://github.com/adrzystek/Hex-Fusekipedia)
 * [Star it on the Github page :)](https://github.com/adrzystek/Hex-Fusekipedia)
@@ -33,6 +33,7 @@ This is my first project so contributions are very welcome!
 
 About the game:
 * https://en.wikipedia.org/wiki/Hex_(board_game)
+* http://maarup.net/thomas/hex/
 
 About the tkinter package:
 * https://docs.python.org/3/library/tk.html
