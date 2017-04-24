@@ -47,7 +47,9 @@ About the tkinter package:
 
 ![sc1](https://cloud.githubusercontent.com/assets/26262275/25361195/36a7cea8-294d-11e7-94ba-86364d5c12f6.png)
 
+![sc2](https://cloud.githubusercontent.com/assets/26262275/25361244/6d1e0d1c-294d-11e7-8733-2743f2b896f8.png)
 
+![sc3](https://cloud.githubusercontent.com/assets/26262275/25361308/c6fcf37a-294d-11e7-9abe-808f806ae0d1.png)
 
 ## License
 
