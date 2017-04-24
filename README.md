@@ -51,6 +51,8 @@ About the tkinter package:
 
 ![sc3](https://cloud.githubusercontent.com/assets/26262275/25361308/c6fcf37a-294d-11e7-9abe-808f806ae0d1.png)
 
+![sc4](https://cloud.githubusercontent.com/assets/26262275/25361349/04440890-294e-11e7-9494-0b454310ca45.png)
+
 ## License
 
 See the [LICENSE](https://github.com/adrzystek/Hex-Fusekipedia/blob/master/LICENSE) file for license rights and limitations.
