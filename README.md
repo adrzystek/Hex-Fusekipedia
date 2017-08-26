@@ -73,6 +73,7 @@ About the tkinter package:
 <p align="justify">
 The project is considered to be (successfully) completed and is not about to be further developed - at least by the author. However, naturally, there are areas in which the application could be enhanced:
 </p>
+
 * <p align="justify">"free play mode", i.e., a mode which would allow a user to make own moves (for example, in case he or she was curious about a possible alternate sequence and would like to check it on their own) with a possibility to get back to the actual position;</p>
 * <p align="justify">easier (previous) move browsing - e.g., with a slider;</p>
 * <p align="justify">making the application in a web technology so that it could be uploaded on a web page and thus made available to a wider audience.</p>
