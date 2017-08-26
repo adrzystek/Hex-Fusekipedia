@@ -6,7 +6,7 @@
 Hex is a strategy board game for two players invented independently by a Danish mathematician Piet Hein and a Nobel laureate John Nash. In spite of having very simple rules, the game has deep strategy, sharp tactics and a profound mathematical underpinning related to the Brouwer fixed point theorem.
 </p>
 <p align="justify">
-Rules of the game are pretty straightforward - players alternate placing pieces on unoccupied spaces in an attempt to link opposite sides of the board in an unbroken chain. One player must win; there are no draws.
+Rules of the game are straightforward - players alternate placing pieces on unoccupied spaces in an attempt to link opposite sides of the board in an unbroken chain. One player must win; there are no draws.
 </p>
 <p align="justify">
 Surprisingly, apart from a few rules of thumb, there is very little information about how the game should be played. The project Hex Fusekipedia aims to at least partially fill the gap of human unawareness in this matter. This simple application written in Python collects games from all championship tournaments played on Little Golem server which gathers top hex players. Based on these pieces of data, the application shows a variety of opening moves with their follow-ups played by the best players. Additional information (e.g., concerning the win ratio for a particular move) is also provided. Everything is wrapped in an user-friendly GUI (made with tkinter package).
@@ -66,6 +66,15 @@ About the tkinter package:
 ![sc4](https://user-images.githubusercontent.com/26262275/29744136-219a4e38-8a9f-11e7-8493-fbc301ab99c8.png)
 
 ![sc5](https://cloud.githubusercontent.com/assets/26262275/25361349/04440890-294e-11e7-9494-0b454310ca45.png)
+
+
+## Further work
+
+The project is considered to be (successfully) completed and is not about to be further developed - at least by the author. However, naturally, there are areas in which the application could be enhanced:
+* "free play mode", i.e., a mode which would allow a user to make own moves (for example, in case he or she was curious about a possible alternate sequence and would like to check it on their own) with a possibility to get back to the actual position;
+* easier (previous) move browsing - e.g., with a slider;
+* making the application in a web technology so that it could be uploaded on a web page and thus made available to a wider audience.
+Anyone willing to take up any of abovementioned tasks is warmly encouraged to do so! (And of course to contact me for any advice).
 
 
 ## License
