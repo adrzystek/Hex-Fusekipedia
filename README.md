@@ -15,22 +15,22 @@ Surprisingly, apart from a few rules of thumb, there is very little information 
 
 ## Features
 
-* Browse opening moves for every board size (11x11, 13x13, and 19x19)
-*
-*
+* Browse opening moves for every board size (11x11, 13x13, and 19x19), choosing from championship or individual players' games
+* See frequency of a particular move, its win ratio and follow-up moves
+* Review games based on the chosen opening sequence
+* Download your own (or any player's) games and get surprised by always(or never)-win-moves
+* The non-static database - at any time with just a few clicks update the game collection
+
 
 ## Usage
 
-```python
-pass
-```
+Simply download the listed two files (Python script and SQLite database), place them in the same directory and run the script with Python 3.x. The app navigation should be intuitive but additionally there is a help section in the "Info" --> "About Hex Fusekipedia" menu.
 
 
 ## Details
 
-```python
-pass
-```
+* The application has been made in Python 3.5 with the use of standard libraries so the issue of a not installed module should not occur. Nevertheless, in case of problems, check whether following packages are installed and can be imported in your Python 3.x (the application should run with any Python 3, however, not all the versions has been tested): time, urllib, re, sqlite3, webbrowser, bs4, tkinter.
+* The application has not (but probably should) been written in the model–view–controller pattern what resulted in a bit messy code because of which the author feels sorry for a potential code explorer.
 
 
 ## Contributing
