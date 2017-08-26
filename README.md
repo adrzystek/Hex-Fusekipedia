@@ -31,8 +31,8 @@ Simply download the two listed files (Python script and SQLite database), place 
 
 ## Details
 
-* The application has been made in Python 3.5 with the use of standard libraries so the issue of a not installed module should not occur. Nevertheless, in case of problems, check whether following packages are installed and can be imported in your Python 3.x (the application should run with any Python 3, however, not all the versions has been tested): time, urllib, re, sqlite3, webbrowser, bs4, tkinter.
-* The application has not (but probably should) been written in the model–view–controller pattern what resulted in a bit messy code because of which the author feels sorry for a potential code explorer.
+* <p align="justify">The application has been made in Python 3.5 with the use of standard libraries so the issue of a not installed module should not occur. Nevertheless, in case of problems, check whether following packages are installed and can be imported in your Python 3.x (the application should run with any Python 3, however, not all the versions has been tested): time, urllib, re, sqlite3, webbrowser, bs4, tkinter.</p>
+* <p align="justify">The application has not (but probably should) been written in the model–view–controller pattern what resulted in a bit messy code because of which the author feels sorry for a potential code explorer.</p>
 
 
 ## Contributing
@@ -70,11 +70,16 @@ About the tkinter package:
 
 ## Further work
 
+<p align="justify">
 The project is considered to be (successfully) completed and is not about to be further developed - at least by the author. However, naturally, there are areas in which the application could be enhanced:
-* "free play mode", i.e., a mode which would allow a user to make own moves (for example, in case he or she was curious about a possible alternate sequence and would like to check it on their own) with a possibility to get back to the actual position;
-* easier (previous) move browsing - e.g., with a slider;
-* making the application in a web technology so that it could be uploaded on a web page and thus made available to a wider audience.
+</p>
+* <p align="justify">"free play mode", i.e., a mode which would allow a user to make own moves (for example, in case he or she was curious about a possible alternate sequence and would like to check it on their own) with a possibility to get back to the actual position;</p>
+* <p align="justify">easier (previous) move browsing - e.g., with a slider;</p>
+* <p align="justify">making the application in a web technology so that it could be uploaded on a web page and thus made available to a wider audience.</p>
+
+<p align="justify">
 Anyone willing to take up any of abovementioned tasks is warmly encouraged to do so! (And of course to contact me for any advice).
+</p>
 
 
 ## License
