@@ -24,7 +24,9 @@ Surprisingly, apart from a few rules of thumb, there is very little information 
 
 ## Usage
 
-Simply download the listed two files (Python script and SQLite database), place them in the same directory and run the script with Python 3.x. The app navigation should be intuitive but additionally there is a help section in the "Info" --> "About Hex Fusekipedia" menu.
+<p align="justify">
+Simply download the two listed files (Python script and SQLite database), place them in the same directory and run the script with Python 3.x. The app navigation should be intuitive but additionally there is a help section in the "Info" --> "About Hex Fusekipedia" menu.
+</p>
 
 
 ## Details
