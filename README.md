@@ -76,7 +76,8 @@ The project is considered to be (successfully) completed and is not about to be 
 
 * <p align="justify">"free play mode", i.e., a mode which would allow a user to make own moves (for example, in case he or she was curious about a possible alternate sequence and would like to check it on their own) with a possibility to get back to the actual position;</p>
 * <p align="justify">easier (previous) move browsing - e.g., with a slider;</p>
-* <p align="justify">making the application in a web technology so that it could be uploaded on a web page and thus made available to a wider audience.</p>
+* <p align="justify">rewriting the application in the model–view–controller pattern - probably would be nicer to read, control and modify;</p>
+* <p align="justify">rewriting the application in a web technology so that it could be uploaded on a web page and thus made available to a wider audience.</p>
 
 <p align="justify">
 Anyone willing to take up any of abovementioned tasks is warmly encouraged to do so! (And of course to contact me for any advice).
