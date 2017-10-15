@@ -25,13 +25,13 @@ Surprisingly, apart from a few rules of thumb, there is very little information 
 ## Usage
 
 <p align="justify">
-Simply download the two listed files (Python script and SQLite database), place them in the same directory and run the script with Python 3.x. The app navigation should be intuitive but additionally there is a help section in the "Info" --> "About Hex Fusekipedia" menu.
+Simply download the two listed files (Python script and SQLite database), place them in the same directory and run the script with Python 3.x. In order to be able to download new games, one has to install the bs4 package - for details refer to https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup. Note that wihtout this library one can still use the app with all its functionalities except for the one above-mentioned. The application itself should be intuitive but additionally there is a help section in the "Info" --> "About Hex Fusekipedia" menu.
 </p>
 
 
 ## Details
 
-* <p align="justify">The application has been made in Python 3.5 with the use of standard libraries so the issue of a not installed module should not occur. Nevertheless, in case of problems, check whether following packages are installed and can be imported in your Python 3.x (the application should run with any Python 3, however, not all the versions has been tested): time, urllib, re, sqlite3, webbrowser, bs4, tkinter.</p>
+* <p align="justify">The application has been made in Python 3.5 with the use of standard libraries and one additional package for pulling data (games) out of the HTML files (LG website) - bs4 (Beautiful Soup). This module should be installed by the user in order to fully enjoy all the functionalities of the application. Generally, check whether following packages are installed and can be imported in your Python 3.x (the application should run with any Python 3, however, not all the versions has been tested): time, urllib, re, sqlite3, webbrowser, bs4, tkinter.</p>
 * <p align="justify">The application has not (but probably should) been written in the model–view–controller pattern what resulted in a bit messy code because of which the author feels sorry for a potential code explorer.</p>
 
 
