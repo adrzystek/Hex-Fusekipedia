@@ -16,8 +16,8 @@ try:
     from bs4 import BeautifulSoup
 except:
     print("bs4 library not installed.")
-	print("Without this package, you can still use the application, but will not be able to download any new games (if you try, the app will most probably crash).")
-	print("To install this library (which is very easy), please refer to https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup.")
+    print("Without this package, you can still use the application, but will not be able to download any new games (if you try, the app will most probably crash).")
+    print("To install this library (which is very easy), please refer to https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup.")
 from tkinter import font
 from tkinter import messagebox
 
